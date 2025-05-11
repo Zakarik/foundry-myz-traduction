@@ -1,4 +1,4 @@
-const MODULE_ID = 'your-module-id'; // Change this ID!
+const MODULE_ID = 'myz-traduction'; // Change this ID!
 
 // No need to change the code below this line, but it’s your module so do it if you want!
 
