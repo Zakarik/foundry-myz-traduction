@@ -1,0 +1,205 @@
+{
+  "label": "Compétences de Base et Spécialistes",
+  "mapping": {
+    "description": "system.description"
+  },
+  "folders": {},
+  "entries": {
+    "Analyze": {
+      "name": "Analyze",
+      "description": ""
+    },
+    "Assault": {
+      "name": "Assault",
+      "description": ""
+    },
+    "Brew Potion": {
+      "name": "Brew Potion",
+      "description": ""
+    },
+    "Calculate": {
+      "name": "Calculate",
+      "description": ""
+    },
+    "Clean": {
+      "name": "Clean",
+      "description": ""
+    },
+    "Command": {
+      "name": "Commandement",
+      "description": "<p style=\"text-align: justify;\">En tant que Caïd, vous n’êtes jamais seul. Vous avez toujours un groupe de mutants à proximité, prêts à voler à votre secours. Commandement fonctionne un peu différemment des autres compétences.</p>\n<p style=\"text-align: justify;\">Taille : votre niveau de compétence est un indicateur de la taille de votre bande. Chaque niveau représente environ 3 à 4 mutants.</p>\n<p style=\"text-align: justify;\">Caractéristiques : un groupe basique est généralement composé de Fracasseurs, avec parfois un Maître-chien et un Combinard. Les membres du gang ont les caractéristiques de PNJ standard pour leurs rôles respectifs. Vous pouvez les améliorer grâce à certains talents.</p>\n<p style=\"text-align: justify;\">Armes : votre bande de base est armée de massues et autres armes de corps à corps improvisées. Cet équipement peut être amélioré avec le talent Flingueurs.</p>\n<p style=\"text-align: justify;\">Bouffe, eau et balles : tant que vous êtes dans l’Arche, les membres de votre bande trouvent assez de bouffe et d’eau pour survivre. S’ils possèdent des armes à feu, ils ont juste ce qu’il faut en matière de balles. Dans la Zone, c’est une autre paire de manches : là-bas, vous devez fournir bouffe, eau et balles à chacun.</p>\n<p style=\"text-align: justify;\"><strong>Échec :</strong> si votre test de Commandement est un échec, l’un des membres se rebelle ! Vous devez l’affronter en duel. Si vous perdez (et survivez), votre bande vous abandonne. Vous pouvez en reconstituer une, mais cela prend des semaines et un test réussi.</p>\n<p style=\"text-align: justify;\"><strong>Conflits :</strong> quiconque choisit de vous aider en conflit perd sa propre action du tour. Vous ne pouvez pas aider quelqu’un et agir vous-même, sauf pour effectuer une manœuvre.</p>"
+    },
+    "Comprehend": {
+      "name": "Compréhension",
+      "description": "<p style=\"text-align: justify;\">Le monde après l’Apocalypse est étrange, incompréhensible pour beaucoup de mutants. Faites un test de Compréhension lorsque vous souhaitez lire un ancien texte, connaître la fonction de certains lieux oubliés, ou comprendre à quoi sert et comment utiliser un artefact.</p>\n<p style=\"text-align: justify;\"><strong>Échec :</strong> vous ne comprenez rien à l’objet de votre étude, ou vous vous trompez.</p>\n<p style=\"text-align: justify;\"><strong>Réussite :</strong> vous comprenez la nature ou la fonction de l’objet. S’il s’agit d’un artefact, vous pouvez l’utiliser.</p>\n<p style=\"text-align: justify;\"><strong>Prouesse :</strong> chaque @myz[s] obtenu en plus du premier vous permet d’apprendre à quelqu’un d’autre comment se servir de l’artefact.</p>"
+    },
+    "Coordinate": {
+      "name": "Coordinate",
+      "description": ""
+    },
+    "Datamine": {
+      "name": "Datamine",
+      "description": ""
+    },
+    "Dominate": {
+      "name": "Dominate",
+      "description": ""
+    },
+    "Drive": {
+      "name": "Drive",
+      "description": "<p>Ad Astra pg. 104</p>"
+    },
+    "Endure": {
+      "name": "Endurance",
+      "description": "<p style=\"text-align: justify;\">Lorsque la Zone réclame son dû, lorsque vos jambes n’arrivent plus à vous porter, vous faites un test d’Endurance. Cette compétence est par exemple utile lorsque vous voyagez dans de mauvaises conditions climatiques ou quand il fait très froid (cf. page 93).</p>\n<p style=\"text-align: justify;\"><strong>Échec :</strong> vous n’en pouvez plus. Il vous faut vous reposer, ne serait-ce que quelques heures… en espérant qu’aucun prédateur ne vous repère.</p>\n<p style=\"text-align: justify;\"><strong>Réussite :</strong> vous tenez le coup et vous arrivez à ignorer la douleur encore un moment.</p>\n<p style=\"text-align: justify;\"><strong>Prouesse :</strong> chaque @myz[s] obtenu en plus du premier vous permet d’aider un ami (PJ ou PNJ) qui se trouve dans la même situation que vous. Il peut continuer à avancer sans avoir besoin de lancer les dés. Vous pouvez même choisir cette prouesse lorsque vous n’obtenez qu’un @myz[s] : dans ce cas, vous aidez votre ami, mais en vous sacrifiant pour lui.</p>"
+    },
+    "Enlighten": {
+      "name": "Enlighten",
+      "description": ""
+    },
+    "Fight": {
+      "name": "Combat",
+      "description": "<p style=\"text-align: justify;\">Le monde de Mutant: Year Zero est brutal. Parfois, vous n’avez pas d’autre choix que de défendre chèrement votre peau. Utilisez cette compétence lorsque vous combattez au corps à corps.</p>\n<p style=\"text-align: justify;\"><strong>Échec :</strong> vous avez trébuché et raté votre coup. À votre adversaire, maintenant…</p>\n<p style=\"text-align: justify;\"><strong>Réussite :</strong> vous touchez la cible et vous lui infligez les dégâts de votre arme.</p>\n<p style=\"text-align: justify;\"><strong>Prouesses :</strong> pour chaque @myz[s] obtenu en plus du premier, choisissez l’une de ces prouesses :</p>\n<ul>\n  <li>Infligez 1 point de dégâts supplémentaire.</li>\n  <li>Infligez 1 point d’épuisement à l’ennemi.</li>\n  <li>Votre initiative augmente de 2 (tour suivant).</li>\n  <li>L’ennemi lâche une arme ou un objet. Ramasser un objet compte pour une manœuvre.</li>\n  <li>Votre adversaire tombe ou est repoussé.</li>\n  <li>Vous immobilisez l’adversaire (il doit réussir un test de Combat pour se libérer).</li>\n</ul>"
+    },
+    "Find The Path": {
+      "name": "Trouver le chemin",
+      "description": ""
+    },
+    "Force": {
+      "name": "Force",
+      "description": "<p style=\"text-align: justify;\">Quand des épaves ou des débris bloquent votre chemin, et que vous devez pousser ou soulever quelque chose, faites un test de Force.</p>\n<p style=\"text-align: justify;\"><strong>Échec :</strong> c’est vraiment trop lourd. Il va falloir trouver un autre moyen.</p>\n<p style=\"text-align: justify;\"><strong>Réussite :</strong> avec un grognement, vous triomphez et vous écartez ce qui vous barrait le passage.</p>\n<p style=\"text-align: justify;\"><strong>Prouesses :</strong> pour chaque @myz[s] supplémentaire, choisissez l’une des prouesses suivantes :</p>\n<ul>\n  <li>Vous poussez ou lancez l’objet : une cible à portée subit autant de dégâts que d’@myz[s] supplémentaires.</li>\n  <li>Vous révélez un passage secret ou un objet caché. C’est la MJ qui décide.</li>\n</ul>"
+    },
+    "Heal": {
+      "name": "Soins",
+      "description": "<p style=\"text-align: justify;\">Lorsque vous êtes Brisé, vous avez besoin de vos amis pour vous relever. La compétence Soins peut être utilisée de deux manières :</p>\n<p style=\"text-align: justify;\"><strong>Soigner un Brisé :</strong> lorsqu’un individu subit assez de traumatismes pour réduire un attribut à zéro, il devient Brisé et ne peut plus agir. Si vous réussissez un test de Soins, il récupère autant de points d’attribut que d’@myz[s] obtenus.</p>\n<p style=\"text-align: justify;\"><strong>Sauver une vie :</strong> prodiguez les premiers secours et stabilisez les blessés critiques pour leur sauver la vie. Un échec pourrait mettre le patient en danger.</p>"
+    },
+    "Hunt": {
+      "name": "Hunt",
+      "description": ""
+    },
+    "Infiltrate": {
+      "name": "Infiltrate",
+      "description": ""
+    },
+    "Inspire": {
+      "name": "Inspirer",
+      "description": "<p style=\"text-align: justify;\">Lorsque d’autres mutants perdent espoir, vous pouvez les aider ou les gêner. Faites un test d’Inspirer pour intervenir sur un jet de compétence.</p>\n<p style=\"text-align: justify;\"><strong>Aider :</strong> votre premier succès octroie +2 à la compétence que la cible s’apprête à utiliser. Chaque succès supplémentaire ajoute +1.</p>\n<p style=\"text-align: justify;\"><strong>Gêner :</strong> votre premier succès inflige –2 à la cible. Chaque succès supplémentaire aggrave ce malus de –1.</p>\n<p style=\"text-align: justify;\"><strong>Échec :</strong> vous risquez de faire l’inverse de votre intention (aider au lieu de gêner, ou vice-versa).  <strong>Conflits :</strong> vous pouvez Inspirer à tout moment, à condition de ne pas avoir déjà utilisé votre action du tour.</p>"
+    },
+    "Interact": {
+      "name": "Interact",
+      "description": ""
+    },
+    "Intimidate": {
+      "name": "Intimidation",
+      "description": "<p style=\"text-align: justify;\">Tout le monde dans l’Arche sait que votre passage n’annonce rien de bon. Faites un test d’Intimidation pour faire plier votre cible à votre volonté, sans forcément lever le poing.</p>\n<p style=\"text-align: justify;\"><strong>Échec :</strong> vous ratez votre effet, et la cible peut devenir hostile.<br><strong>Réussite :</strong> la cible cède ou recule, prête à négocier.<br><strong>Prouesse :</strong> chaque succès supplémentaire ajoute –1 au jet de compétence de la cible la prochaine fois qu’elle agit contre vous.</p>"
+    },
+    "Investigate": {
+      "name": "Investigate",
+      "description": ""
+    },
+    "Jury-Rig": {
+      "name": "Jury-Rig",
+      "description": ""
+    },
+    "Know Nature": {
+      "name": "Know Nature",
+      "description": ""
+    },
+    "Know The Zone": {
+      "name": "Connaissance de la Zone",
+      "description": "<p style=\"text-align: justify;\">Les terres désolées au-delà des frontières de l’Arche sont inconnues de la majorité du Peuple. Faites un test de Connaissance de la Zone lorsque vous croisez dans la Zone des créatures ou phénomènes sur lesquels vous voulez vous renseigner.</p>\n<p style=\"text-align: justify;\"><strong>Échec :</strong> vous n’avez aucune information fiable, ou alors de mauvaises.</p>\n<p style=\"text-align: justify;\"><strong>Réussite :</strong> vous savez ce que c’est et connaissez ses effets ou caractéristiques habituelles.</p>\n<p style=\"text-align: justify;\"><strong>Prouesse :</strong> chaque @myz[s] obtenu en plus du premier vous permet d’obtenir la réponse à l’une de ces questions : Comment cela peut-il me nuire ? Comment puis-je lui nuire ou m’en protéger ?</p>"
+    },
+    "Make A Deal": {
+      "name": "Conclure un marché",
+      "description": "<p style=\"text-align: justify;\">Vous exploitez votre talent pour déterminer et satisfaire les besoins des autres… à un prix. Faites un test de Conclure un marché.</p>\n<p style=\"text-align: justify;\"><strong>Échec :</strong> une des parties se sent flouée et la situation tourne mal.</p>\n<p style=\"text-align: justify;\"><strong>Réussite :</strong> pour chaque succès, choisissez l’une des récompenses suivantes :</p>\n<ul>\n  <li>D6 balles</li>\n  <li>D6 rations de bouffe</li>\n  <li>2D6 rations d’eau pure</li>\n  <li>2D6 doses de tord-boyaux</li>\n  <li>Un secret gênant (MJ décide)</li>\n</ul>"
+    },
+    "Manipulate": {
+      "name": "Manipulation",
+      "description": "<p style=\"text-align: justify;\">Mentez, argumentez, menacez, séduisez ou convainquez subtilement. Faites un test opposé de Manipulation contre la Perception des émotions de la cible.</p>\n<p style=\"text-align: justify;\"><strong>Échec :</strong> la personne refuse ou peut devenir hostile.</p>\n<p style=\"text-align: justify;\"><strong>Réussite :</strong> la personne fait ce que vous demandez à contrecœur, mais veut quelque chose en retour.</p>\n<p style=\"text-align: justify;\"><strong>Prouesse :</strong> chaque @myz[s] obtenu en plus du premier inflige 1 point de doute à la cible. Si elle est Brisée par le doute, elle fait ce que vous voulez sans demander de contrepartie.</p>"
+    },
+    "Manufacture": {
+      "name": "Manufacture",
+      "description": ""
+    },
+    "Measure Enemy": {
+      "name": "Measure Enemy",
+      "description": ""
+    },
+    "Move": {
+      "name": "Déplacement",
+      "description": "<p style=\"text-align: justify;\">En situation tendue, confronté à des périls insurmontables, il faut garder votre sang-froid et filer. Faites un test de Déplacement lorsque vous souhaitez échapper à un conflit ou à une autre situation périlleuse.</p>\n<p style=\"text-align: justify;\"><strong>Échec :</strong> vous êtes cloué sur place, acculé, sans issue. Préparez-vous à vous battre.</p>\n<p style=\"text-align: justify;\"><strong>Réussite :</strong> vous échappez à cette situation délicate, et vous survivez un jour de plus.</p>\n<p style=\"text-align: justify;\"><strong>Prouesse :</strong> chaque @myz[s] obtenu en plus du premier vous permet d’aider un ami (PJ ou PNJ) qui se trouve dans la même situation que vous. Il s’en sort sans même avoir besoin de lancer les dés. Vous pouvez même choisir cette prouesse lorsque vous n’obtenez qu’un @myz[s] : dans ce cas, vous aidez votre ami, mais en vous sacrifiant pour lui.</p>"
+    },
+    "Overload": {
+      "name": "Overload",
+      "description": ""
+    },
+    "Press On": {
+      "name": "Press On",
+      "description": ""
+    },
+    "Prosecute": {
+      "name": "Prosecute",
+      "description": ""
+    },
+    "Protect": {
+      "name": "Protect",
+      "description": ""
+    },
+    "Question": {
+      "name": "Question",
+      "description": ""
+    },
+    "Recycle": {
+      "name": "Recycle",
+      "description": ""
+    },
+    "Repair": {
+      "name": "Repair",
+      "description": ""
+    },
+    "Scan": {
+      "name": "Observation",
+      "description": "<p style=\"text-align: justify;\">Dans la Zone, vous devez garder les yeux ouverts si vous voulez rester en vie. Faites un test d’Observation pour repérer des ennemis ou identifier un lieu/objet/créature lointaine.</p>\n<p style=\"text-align: justify;\"><strong>Échec :</strong> vous n’arrivez pas à savoir de quoi il s’agit, ou vous prenez ce que vous voyez pour quelque chose d’autre.</p>\n<p style=\"text-align: justify;\"><strong>Réussite :</strong> vous identifiez clairement ce que vous avez détecté et savez s’il s’agit ou non d’une menace.</p>\n<p style=\"text-align: justify;\"><strong>Prouesse :</strong> chaque @myz[s] supplémentaire vous permet d’obtenir la réponse à l’une de ces questions : Est-ce qu’il se dirige vers moi ? Y en a-t-il d’autres à proximité ? Comment puis-je passer devant sans me faire voir ?</p>"
+    },
+    "Scavenge": {
+      "name": "Scavenge",
+      "description": ""
+    },
+    "Scout": {
+      "name": "Scout",
+      "description": ""
+    },
+    "Scry": {
+      "name": "Scry",
+      "description": ""
+    },
+    "Sense Emotion": {
+      "name": "Perception des émotions",
+      "description": "<p style=\"text-align: justify;\">Être capable de lire un autre mutant comme un livre ouvert peut être plus destructeur qu’une arme des Temps d’Avant. Faites un test de Perception des émotions lorsque vous souhaitez connaître l’humeur et les intentions d’un PNJ à votre égard.</p>\n<p style=\"text-align: justify;\"><strong>Échec :</strong> vous n’arrivez pas à déchiffrer les intentions du PNJ, ou vous vous trompez.</p>\n<p style=\"text-align: justify;\"><strong>Réussite :</strong> la MJ vous révèle l’émotion la plus intense que ressent le PNJ à l’instant.</p>\n<p style=\"text-align: justify;\"><strong>Prouesse :</strong> chaque @myz[s] obtenu en plus du premier vous permet d’obtenir la réponse à l’une de ces questions : Dit-il la vérité ? Veut-il me nuire ? Veut-il obtenir quelque chose ?</p>\n<p style=\"text-align: justify;\"><strong>Étranger :</strong> si le PNJ ciblé ne fait pas partie du Peuple, vous recevez un modificateur de -1 sur votre jet.</p>"
+    },
+    "Shake It Off": {
+      "name": "Shake It Off",
+      "description": ""
+    },
+    "Shoot": {
+      "name": "Tir",
+      "description": "<p style=\"text-align: justify;\">Si vous avez une arme à feu, et une balle pour la charger, vous pouvez abattre un ennemi de loin sans vous salir les mains.</p>\n<p style=\"text-align: justify;\"><strong>Échec :</strong> vous manquez votre cible. Mais le bruit pourrait attirer une attention indésirable…</p>\n<p style=\"text-align: justify;\"><strong>Réussite :</strong> vous touchez la cible et lui infligez les dégâts de votre arme.</p>\n<p style=\"text-align: justify;\"><strong>Prouesses :</strong> pour chaque @myz[s] obtenu en plus du premier, choisissez l’une de ces prouesses :</p>\n<ul>\n  <li>Infligez 1 point de dégâts supplémentaire.</li>\n  <li>Infligez 1 point d’épuisement à l’ennemi.</li>\n  <li>Votre initiative augmente de 2 (tour suivant).</li>\n  <li>L’ennemi lâche une arme ou un objet.</li>\n  <li>Votre adversaire tombe ou est repoussé.</li>\n</ul>"
+    },
+    "Sic A Dog": {
+      "name": "Lâcher le chien",
+      "description": "<p style=\"text-align: justify;\">Votre chien est votre meilleur allié et peut combattre ou explorer à votre place.</p>\n<p style=\"text-align: justify;\"><strong>Échec :</strong> votre cible ignore le chien, ou le repère et prend l’avantage.</p>\n<p style=\"text-align: justify;\"><strong>Réussite :</strong> le chien inflige une morsure (2 dégâts) ou vous rapporte l’info demandée.</p>\n<p style=\"text-align: justify;\"><strong>Prouesse :</strong> chaque @myz[s] supplémentaire inflige 1 point de doute ou vous donne une information bonus.</p>"
+    },
+    "Sneak": {
+      "name": "Furtivité",
+      "description": "<p style=\"text-align: justify;\">Bien souvent, il est plus sage d’éviter le conflit en vous déplaçant sans être repéré. Faites un test de Furtivité.</p>\n<p style=\"text-align: justify;\"><strong>Échec :</strong> vous êtes repéré et perdez l’effet de surprise.</p>\n<p style=\"text-align: justify;\"><strong>Réussite :</strong> vous passez inaperçu.</p>\n<p style=\"text-align: justify;\"><strong>Prouesse :</strong> pour chaque @myz[s] obtenu en plus du premier lors d’une attaque surprise, vous bénéficiez de +1 à votre première attaque.</p>"
+    },
+    "Target": {
+      "name": "Target",
+      "description": ""
+    },
+    "Tinker": {
+      "name": "Tinker",
+      "description": ""
+    }
+  }
+}
