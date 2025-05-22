@@ -6,8 +6,8 @@
   "folders": {},
   "entries": {
     "00k2InnscFLyDn28": {
-      "name": "Measure Enemy",
-      "description": ""
+      "name": "Jauger l’ennemi",
+      "description": "<p style=\"text-align: justify;\">Un vrai guerrier sait que la bataille est gagnée avant même de porter le premier coup. Si vous avez l’occasion d’observer votre ennemi pendant une minute environ, vous pouvez le <strong>Jauger l’ennemi</strong>.</p>\n\n<p style=\"text-align: justify;\"><strong>Échec :</strong> votre ennemi reste un mystère à vos yeux. Vous hésitez désormais, ce qui vous inflige un malus de -2 au résultat du jet d’initiative.</p>\n\n<p style=\"text-align: justify;\"><strong>Réussite :</strong> la MJ doit vous révéler les valeurs d’attribut et de compétence les plus élevées de l’ennemi.</p>\n\n<p style=\"text-align: justify;\"><strong>Prouesses :</strong> chaque @myz[s] obtenu en plus du premier vous permet de choisir une des prouesses de la liste suivante. Toutes peuvent être choisies à plusieurs reprises :</p>\n<ul>\n  <li>Vous détectez la faiblesse de l’ennemi et bénéficiez d’un modificateur de +1 à toutes les attaques portées contre lui durant ce combat.</li>\n  <li>Vous instillez la peur dans le cœur de l’ennemi, qui subit 1 point de doute. Cette prouesse ne fonctionne pas contre les monstres.</li>\n  <li>Vous pouvez prédire ce que va faire l’ennemi. Vous bénéficiez d’un bonus de +1 au résultat du jet d’initiative au début du conflit.</li>\n</ul>\n\n<p style=\"text-align: justify;\">Les prouesses en question ne s’appliquent qu’à un ennemi à la fois, et uniquement pendant un conflit. Si vous voulez Jauger l’ennemi contre un autre adversaire avant le début du conflit, vous perdez les avantages octroyés par ce premier jet.</p>"
     },
     "0Uzoy9LQ8lITMNr6": {
       "name": "Compréhension",
@@ -22,24 +22,24 @@
       "description": ""
     },
     "3HANeFrL6PCm4c4N": {
-      "name": "Hunt",
-      "description": ""
+      "name": "Chasse",
+      "description": "<p style=\"text-align: justify;\">Étant un des chasseurs de la tribu, c’est à vous qu’il appartient de chasser le gibier pour nourrir les vôtres. La compétence <strong>Chasse</strong> a deux utilisations.</p>\n\n<p style=\"text-align: justify;\"><strong>Petit gibier :</strong> vous pouvez passer quelques heures à traquer du petit gibier dans la vallée au moyen d’un test de Chasse. Chaque @myz[s] vous permet de rapporter assez de viande pour confectionner D6 rations de nourriture. Dans les régions où l’eau est rare, vous pouvez choisir de trouver D6 rations d’eau à la place.</p>\n\n<p style=\"text-align: justify;\"><strong>Traquer les monstres :</strong> vous pouvez utiliser Chasse pour trouver les traces des monstres et des créatures humanoïdes. La MJ peut modifier le jet de dés s’il s’agit de traces anciennes, ou si un facteur particulier les rend faciles ou difficiles à suivre. En cas de succès, vous les repérez facilement, et vous voyez dans quelle direction est partie votre proie. Chaque @myz[s] obtenu en plus du premier vous permet de choisir une prouesse, qui se manifeste par la réponse à l’une de ces questions :</p>\n\n<ul>\n  <li>Quel genre de créature a laissé ces traces ?</li>\n  <li>À quelle distance se trouve-t-elle ?</li>\n  <li>Votre proie est-elle blessée ?</li>\n  <li>Votre proie est-elle seule ?</li>\n</ul>"
     },
     "4uaF7xIsCHVqaC0q": {
-      "name": "Dominate",
-      "description": ""
+      "name": "Soumission",
+      "description": "<p style=\"text-align: justify;\">Les humains employaient les mensonges, la flatterie et la manipulation pour pousser autrui à leur obéir. Les animaux ont un autre moyen de saper la résistance de l’interlocuteur en entamant un conflit qui oppose leurs rangs respectifs et leur capacité de Soumission.</p>\n\n<p style=\"text-align: justify;\">Faites un test de <strong>Soumission</strong> lorsque vous voulez qu’un PNJ agisse selon vos désirs. Il s’agit d’un test opposant (cf. page 45) votre Soumission et la Perception des émotions de la cible. Vous devez émettre une requête raisonnable et acceptée par la MJ, qui peut en outre vous imposer un modificateur en fonction de votre rang (cf. page 21). Vous ne pouvez jamais Soumettre les Veilleurs.</p>\n\n<p style=\"text-align: justify;\"><strong>Échec :</strong> l’interlocuteur ne vous écoute pas et refuse de faire ce que vous voulez. Il peut commencer à vous prendre en grippe, voire vous attaquer si vous l’avez provoqué.</p>\n\n<p style=\"text-align: justify;\"><strong>Réussite :</strong> l’interlocuteur a le choix entre faire ce que vous voulez et vous attaquer immédiatement au corps à corps.</p>\n\n<p style=\"text-align: justify;\"><strong>Prouesse :</strong> chaque @myz[s] obtenu en plus du premier sème la confusion chez l’interlocuteur et lui inflige 1 point de doute (cf. page 78). S’il est Brisé par le doute, il fait ce que vous voulez sans même avoir l’option de vous combattre.</p>"
     },
     "5iL0nMuMC0UWh9vB": {
       "name": "Calculate",
       "description": ""
     },
     "6Oe1muazhg5hB9hM": {
-      "name": "Brew Potion",
-      "description": ""
+      "name": "Concoction de potions",
+      "description": "<p style=\"text-align: justify;\">Les plantes aux vertus extraordinaires ne manquent pas dans la Vallée du Paradis. Pour un œil non exercé, elles ressemblent à de mauvaises herbes, mais vous savez faire la différence entre celles qui guérissent et celles qui tuent. Vous les ramassez et vous les faites bouillir pour en extraire les substances utiles.</p>\n\n<p style=\"text-align: justify;\">Vous devez tout d’abord choisir le genre de potion que vous souhaitez concocter (cf. encadré, page suivante). Ensuite, vous passez quelques heures dans la nature à trouver les herbes appropriées. Puis vous faites un test de <strong>Concoction de potions</strong>.</p>\n\n<p style=\"text-align: justify;\"><strong>Échec :</strong> la potion n’a aucun effet, ou un effet différent de celui prévu (au bon gré de la MJ).</p>\n\n<p style=\"text-align: justify;\"><strong>Succès :</strong> la décoction a l’effet désiré. Chaque @myz[s] obtenu en crée une dose.</p>\n\n<p style=\"text-align: justify;\"><strong>Stockage :</strong> on peut conserver jusqu’à dix doses d’une même potion dans une bouteille ou un récipient similaire (considéré comme un objet ordinaire). Une petite bouteille, comptant comme un objet léger, en contient cinq. La potion reste active quelques jours avant de perdre ses vertus.</p>\n\n<p style=\"text-align: justify;\"><strong>Types de potions :</strong></p>\n<ul>\n  <li>Potion de guérison : élimine D6 points de dégâts.</li>\n  <li>Potion revigorante : élimine D6 points d’épuisement.</li>\n  <li>Potion stimulante : élimine D6 points de confusion.</li>\n  <li>Potion grisante : élimine D6 points de doute.</li>\n  <li>Potion sédative : inflige D6 points de confusion. Lorsque l’Intellect tombe à zéro, la victime s’endort pour D6 heures.</li>\n  <li>Potion mortelle : inflige D6 points de dégâts. Si les dégâts sont suffisants, la victime peut recevoir une blessure critique.</li>\n</ul>\n\n"
     },
     "7skMM1uZHg71Ajne": {
-      "name": "Scry",
-      "description": ""
+      "name": "Divination",
+      "description": "<p style=\"text-align: justify;\">Vous pouvez effectuer un rituel divinatoire permettant de distinguer les événements à venir dans la séance de jeu. Le rituel prend quelques heures et peut être mené à bien en recourant à des plantes hallucinogènes, une hutte à sudation ou toute autre méthode de votre choix. Faites un test de <strong>Divination</strong> pendant le rituel.</p>\n\n<p style=\"text-align: justify;\"><strong>Échec :</strong> vos visions, trop vagues, ne vous donnent aucune information utile. Vous ne pouvez plus recourir à la Divination avant le lendemain.</p>\n\n<p style=\"text-align: justify;\"><strong>Réussite :</strong> vous avez des visions du futur qui vous montrent une action spécifique, ceux qui s’y livrent et son issue (réussite ou échec). C’est à vous, le joueur, de décider de quoi il s’agit, et vous devez le décrire afin que tous soient au courant. Si l’action prédite se produit bel et bien plus tard durant la séance (que vous soyez présent ou pas), votre prédiction l’affecte.\n\nSi vous avez prédit qu’elle réussirait, vos @myz[s] s’ajoutent au résultat du jet de dés associé à l’action. Si vous avez prédit un échec, chacun de vos @myz[s] élimine un de ceux obtenus. Si l’action prédite n’a pas lieu pendant la séance, l’effet est perdu : vous vous êtes sans doute trompé dans l’interprétation… Vous pouvez recourir à la Divination plusieurs fois durant une séance de jeu, mais vous ne pouvez pas vous en servir tant que l’action prédite n’a pas eu lieu (ou jusqu’à la prochaine séance).</p>"
     },
     "8jV4eD6uuSmiPi7q": {
       "name": "Clean",
@@ -170,8 +170,8 @@
       "description": ""
     },
     "leJJ7gMpupDheOnU": {
-      "name": "Scavenge",
-      "description": ""
+      "name": "Récup",
+      "description": "<p style=\"text-align: justify;\">Vous ramassez tout ce qui vous tombe sous la main, et vous fourrez tout ce bric-à-brac dans un chariot ou un sac à dos qui ne vous quitte jamais. Chaque fois qu’il vous faut un objet spécifique pour mener à bien une action, faites un test de <strong>Récup</strong>.</p>\n\n<p style=\"text-align: justify;\"><strong>Échec :</strong> pas moyen de mettre la main sur l’instrument adéquat ! Vous ne pouvez pas refaire le test pour une situation semblable.</p>\n\n<p style=\"text-align: justify;\"><strong>Réussite :</strong> vous avez exactement ce qu’il faut ; à vous de décider de quoi il s’agit. L’objet vous octroie un bonus d’équipement égal au nombre de @myz[s] obtenu. Généralement, il est en mauvais état et ne sert qu’une fois. Vous pouvez toutefois le rendre plus durable en dépensant un @myz[s] obtenu en plus du premier ; dans ce cas, notez l’accessoire sur votre fiche comme un objet ordinaire.</p>\n\n<p style=\"text-align: justify;\"><strong>Armes :</strong> vous pouvez utiliser Récup pour trouver une arme improvisée (cf. page 77). Les @myz[s] obtenus en plus du premier permettent d’améliorer l’arme : chaque @myz[s] ajoute +1 au bonus d’équipement (maximum +2), 1 point aux dégâts (jusqu’à 3) ou un cran à la portée (jusqu’à Longue, pour les armes à distance). Il faut en outre dépenser un @myz[s] supplémentaire pour rendre l’arme durable.</p>\n\n<p style=\"text-align: justify;\"><strong>Sauf pour les ressources :</strong> la compétence Récup ne peut pas servir à trouver de la nourriture, de l’eau, des flèches ou des balles.</p>\n\n<p style=\"text-align: justify;\"><strong>Votre stock :</strong> le chariot ou le sac à dos qui contient votre stock est considéré comme un objet lourd. Si vous le perdez, vous devez reconstituer votre trésor : il vous faut réussir trois jets de Récup (à raison d’un par jour au maximum), chacun représentant plusieurs heures de recherche. Une fois que vous cumulez trois jets réussis, vous pouvez recommencer à utiliser Récup comme d’habitude.</p>"
     },
     "mfFLtUjIyU4ryGV5": {
       "name": "Infiltrate",
@@ -202,8 +202,8 @@
       "description":""
     },
     "wD36YyVwFaxCnKgR": {
-      "name": "Know Nature",
-      "description": ""
+      "name": "Connaissance de la nature",
+      "description": "<p style=\"text-align: justify;\">La Vallée du Paradis est un lieu effrayant et parfois incohérent. Une agréable prairie peut se transformer en marais d’un instant à l’autre. Une forêt verdoyante peut se muer en fournaise. En outre, des monstres mutants rôdent, de plus en plus étranges au fil des ans.</p>\n\n<p style=\"text-align: justify;\">Votre Connaissance de la nature vous permet d’obtenir des informations sur les créatures et les phénomènes que vous croisez. La MJ peut affecter un modificateur au jet de dés en fonction de la rareté de ce que vous observez (cf. chapitre 9).</p>\n\n<p style=\"text-align: justify;\"><strong>Échec :</strong> ça ne vous dit rien, ou vous vous faites des idées. La MJ peut vous donner de fausses informations, ou un mélange de données pertinentes et erronées (ainsi, vous saurez que vous avez manqué le test, mais sans comprendre à quoi vous fier exactement).</p>\n\n<p style=\"text-align: justify;\"><strong>Réussite :</strong> vous identifiez le phénomène ou la créature, et vous avez une idée de ses traits élémentaires ou des effets qui risquent de se produire.</p>\n\n<p style=\"text-align: justify;\"><strong>Prouesses :</strong> chaque @myz[s] obtenu en plus du premier vous permet d’obtenir la réponse à l’une de ces questions (à vous de choisir laquelle) concernant la créature ou le phénomène :</p>\n<ul>\n  <li>Comment cet être ou ce phénomène peut-il me nuire ?</li>\n  <li>Comment puis-je lui nuire ?</li>\n</ul>\n\n"
     },
     "zhR8eBI2wciDWLs0": {
       "name": "Force",
